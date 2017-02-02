@@ -34,7 +34,7 @@
     "readable-stream": "^2.0.4"
   },
   "devDependencies": {
-    "prebuild": "^4.1.2",
+    "prebuild": "^6.0.0",
     "prebuild-ci": "juliangruber/prebuild-ci#electron"
   },
   "repository": {
