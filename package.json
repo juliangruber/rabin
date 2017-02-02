@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/datproject/rabin.git"
+    "url": "git+https://github.com/juliangruber/rabin.git"
   },
   "bugs": {
-    "url": "https://github.com/datproject/rabin/issues"
+    "url": "https://github.com/juliangruber/rabin/issues"
   },
-  "homepage": "https://github.com/datproject/rabin#readme"
+  "homepage": "https://github.com/juliangruber/rabin#readme"
 }
